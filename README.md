@@ -11,5 +11,5 @@ python gui.py
 2. tkinter(GUI)
 
 ## Screenshots
-![mainwindow](https://github.com/prvu7/Password-Generator-with-Python/tree/main/screenshots/screenshot1)
+![mainwindow](https://github.com/prvu7/Password-Generator-with-Python/blob/main/screenshots/screenshot1.png)
 
